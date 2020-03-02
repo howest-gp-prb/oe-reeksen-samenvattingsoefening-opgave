@@ -1,4 +1,4 @@
-# oe-reeksen-samenvattingsoefening-opl
+# oe-reeksen-samenvattingsoefening-opgave
 Dit is een korte samenvattingsoefening die de belangrijkste concepten uit het hoofdstuk reeksen omvat. Focus op het krijgen van de lengte van een array en "het laatste element opvragen".
 
 ## Startsituatie
